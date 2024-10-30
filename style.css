@@ -2,3 +2,14 @@ h1{
     font: size 30pz;
     color:red;
 }
+div{
+    height: 100px;
+    width: 100px;
+    color:aliceblue;
+    display: flex;
+}
+
+h2{
+    color: brown;
+    font-size: 20px;
+}
